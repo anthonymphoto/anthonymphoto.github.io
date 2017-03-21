@@ -153,6 +153,8 @@ img {
     .row01-modal .modal-dialog, .row02-modal .modal-dialog, .row03-modal .modal-dialog,
     .row04-modal .modal-dialog, .row05-modal .modal-dialog, .row06-modal .modal-dialog  {
         top: 15%; }
+    #welcome {
+        font-size: 3em;
 }
 
 @media screen and (min-width: 768px) {
